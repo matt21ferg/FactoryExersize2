@@ -11,9 +11,10 @@ namespace FactoryExersize2
             LoadData();
             SaveData();
         }
-        public void LoadData()
+        public List<Product> LoadData()
         {
             Console.WriteLine("i am reading this from a list database");
+            return new List<Product>();
         }
 
         public void SaveData()
