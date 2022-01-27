@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.exe
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.deps.json
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.runtimeconfig.json
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.runtimeconfig.dev.json
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.dll
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\bin\Debug\netcoreapp3.1\FactoryExersize2.pdb
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.AssemblyInfo.cs
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.dll
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.pdb
+C:\Users\matt2\repos\FactoryExersize2\FactoryExersize2\obj\Debug\netcoreapp3.1\FactoryExersize2.genruntimeconfig.cache
